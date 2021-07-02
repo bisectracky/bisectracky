@@ -1,9 +1,8 @@
 # About Me:
-I'm Zihao, 24 Years old.
 I am broadly interested in several concentrations, including Blockchain and Concensus, Network, Computer Music and Recommender System.
 
 I am first year Computer Science master student @ Courant Institute of Mathematical Sciences, New York University.
-I am prior employee (intern) at DJI, a civilian drone manufacturer.
+I am prior employee (intern) at DJI, a civilian drone manufacturer and once employed by MUJI, a japanese grocery brand. 
 
 
 # Disclaimer:
