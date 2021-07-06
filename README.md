@@ -1,5 +1,5 @@
 # About Me:
-I am first year MSCS student at New York University, Courant Institute of Mathematical Sciences. I am broadly interested in several topics, including applied Cryptography - Blockchain and Concensus, Computer Music and Data-driven Recommender System.
+I am first year MSCS student at New York University, Courant Institute of Mathematical Sciences. I am broadly interested in several topics, including applied Blockchain and Concensus, Computer Music and Data-driven Recommender System.
 
 July 6, 2021
 
