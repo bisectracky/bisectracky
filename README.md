@@ -1,8 +1,7 @@
 # About Me:
-I am first year MSCS student at New York University, Courant Institute of Mathematical Sciences. I am broadly interested in several topics, including Blockchain, Computer Music and Data-driven Recommender System. We are currently working on an NFT based Art socializing and trading game - Artiverse, which is estimated to be launched in South Korea and Japan around Christmas.
+I am first year MSCS student at New York University, Courant Institute of Mathematical Sciences. I am broadly interested in several topics, including Blockchain, Computer Music and Data-driven Recommender System. We are currently working on an NFT based Art socializing and exchanging game - artiverse.fun.
 
-
-Aug 8, 2021
+Sep 21, 2021
 
 
 # Disclaimer (Please read before you fork/utilize my repo):
