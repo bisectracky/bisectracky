@@ -1,5 +1,5 @@
 # Disclaimer (Please read before you fork/utilize my repo):
-I waive all exclusive right to what I disclose here so feel free to use them.
+I waive all exclusive right to what I disclose here so people could utilize the code and docs.
 Educational and purposes of public interests are strongly encouraged.
 Just as a gentle reminder, you understand and agree that you are liable for all consequences of your utilization. 
 I would advise you utilizing with care and prudence.
