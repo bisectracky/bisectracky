@@ -4,6 +4,4 @@ Educational and purposes of public interests are encouraged.
 Just as a gentle reminder, you understand and agree that you are liable for all consequences of your utilization. 
 I would advise you utilizing with care and prudence.
 
-Basically, per departmental requirement, I am not allowed to post school work except those explicitly permitted or required by the instructor.
-
 Last Update on Aug 14, 2022
